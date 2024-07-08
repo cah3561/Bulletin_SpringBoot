@@ -1,2 +1,4 @@
 # Bulletin_SpringBoot
-게시판 만들기_ 스프링부트
+## 프로젝트_게시판 만들기
+![표지][Image_post]
+[Image_post]: 
